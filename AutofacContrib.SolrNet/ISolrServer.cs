@@ -1,4 +1,7 @@
-﻿namespace AutofacContrib.SolrNet
+
+//this is change i want to commit
+//this is ammending
+namespace AutofacContrib.SolrNet
 {
     public interface ISolrServer
     {
